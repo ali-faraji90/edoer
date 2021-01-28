@@ -4,3 +4,4 @@
 * [Goal Selection Screenshot](https://github.com/ali-faraji90/edoer/blob/main/Files/GoalSelection.png)
 * [Preferences Questions Screenshot](https://github.com/ali-faraji90/edoer/blob/main/Files/Preferences.png)
 * [Educational Content Screenshot](https://github.com/ali-faraji90/edoer/blob/main/Files/Curriculum.png)
+* [Goals Screenshot](https://github.com/ali-faraji90/edoer/blob/main/Files/Goals.png)
